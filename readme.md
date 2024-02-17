@@ -1,4 +1,4 @@
-#gemini-ai
+# gemini-ai
 
 ```bash
 npm install @google/generative-ai
