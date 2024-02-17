@@ -1,0 +1,9 @@
+# Node modules
+node_modules
+
+# More Files
+.config
+.upm
+package-lock.json
+.replit
+replit.nix
